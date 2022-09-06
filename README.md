@@ -35,3 +35,7 @@ Repositório para estudo e aplicação dos design patterns do famoso livro do "G
 - **Strategy:** Define uma família de algoritmos, encapsular cada um deles e fazê-los intercambiáveis. O Strategy permite que o algoritmo varie independemente dos clientes que o utilizam.
 - **Template Method:** Define o esquelto de um algoritmo em uma operação, postergando a definição de alguns passos para subclasses. O Template Method permite que as subclasses redefinam certos passos de um algoritmo sem mudar sua estrutura.
 - **Visitor:** Representa uma operação a ser executada sobre os elementos da estrutura de um objeto. O Visitor permite que você defina uma nova operação sem mudar as classes dos elementos sobre os quais opera.
+
+# Fontes
+
+- https://refactoring.guru/pt-br
